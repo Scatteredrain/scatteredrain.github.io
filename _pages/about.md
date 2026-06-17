@@ -90,7 +90,7 @@ redirect_from:
         <li class="hl-item">
           <div class="hl-icon"><span>📄</span></div>
           <div>
-            <div class="hl-number">8+ Papers</div>
+            <div class="hl-number">9+ Papers</div>
             <div class="hl-label">Published / Under review</div>
           </div>
         </li>
@@ -249,6 +249,24 @@ redirect_from:
     <div class="paper-authors">Manman Fei, Haotian Jiang, <strong>Zhenyu Yi</strong>, Qian Wang, Lichi Zhang.</div>
     <ul class="paper-note-list">
       <li>An RL-based visual reasoning framework for cervical cancer cell classification.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="paper-box paper-box-ppgl">
+  <div class="paper-box-image">
+    <div class="paper-badge">arXiv 2026</div>
+    <img src="images/ppgl-swarm.png" alt="PPGL-Swarm teaser" />
+  </div>
+  <div class="paper-box-text">
+    <a class="paper-title" href="https://arxiv.org/abs/2603.21700" target="_blank" rel="noopener">PPGL-Swarm: Integrated Multimodal Risk Stratification and Hereditary Syndrome Detection in Pheochromocytoma and Paraganglioma</a>
+    <div class="paper-authors">Zelin Liu, Xiangfu Yu, Jie Huang, Ge Wang, Yizhe Yuan, <strong>Zhenyu Yi</strong>, Jing Xie, Haotian Jiang, Lichi Zhang.</div>
+    <div class="paper-links">
+      <a href="https://arxiv.org/abs/2603.21700" target="_blank" rel="noopener">arXiv</a>
+      <a href="https://arxiv.org/pdf/2603.21700" target="_blank" rel="noopener">Paper</a>
+    </div>
+    <ul class="paper-note-list">
+      <li>An agentic PPGL diagnostic system for multimodal risk stratification, GAPP scoring, and hereditary syndrome detection.</li>
     </ul>
   </div>
 </div>
