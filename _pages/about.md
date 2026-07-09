@@ -90,7 +90,7 @@ redirect_from:
         <li class="hl-item">
           <div class="hl-icon"><span>📄</span></div>
           <div>
-            <div class="hl-number">9+ Papers</div>
+            <div class="hl-number">8+ Papers</div>
             <div class="hl-label">Published / Under review</div>
           </div>
         </li>
@@ -151,9 +151,9 @@ redirect_from:
   </div>
 </div>
 
-<div class="paper-box">
+<div class="paper-box paper-box-phenomil">
   <div class="paper-box-image">
-    <div class="paper-badge">MedIA <span class="paper-badge-accent">Major Revision</span></div>
+    <div class="paper-badge">MedIA <span class="paper-badge-accent">Minor Revision</span></div>
     <img src="images/phenomil.png" alt="PhenoMIL teaser" />
   </div>
   <div class="paper-box-text">
@@ -253,6 +253,38 @@ redirect_from:
   </div>
 </div>
 
+<!-- Preprints are temporarily hidden.
+<span class='anchor' id='preprints'></span>
+<h2 class="section-title">📄 Preprints</h2>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="paper-badge">Preprint</div>
+    <img src="images/distill-icl.jpg" alt="Distill-ICL teaser" />
+  </div>
+  <div class="paper-box-text">
+    <div class="paper-title">Distill-ICL: Distilling Few-shot Demonstrations into Robust Reasoning Guidance for Multimodal In-Context Learning</div>
+    <div class="paper-authors">Qiang Hu, Yuxuan Luo, <strong>Zhenyu Yi</strong>, Ying Chen, Yingjie Guo, Yuanhong Xie, Huimin Chen, Qiang Li, Zhiwei Wang.</div>
+    <ul class="paper-note-list">
+      <li>A training-free multimodal in-context learning framework that distills demonstrations into shared reasoning chains and local execution guidance.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="paper-badge">Preprint</div>
+    <img src="images/muad.jpg" alt="MUAD teaser" />
+  </div>
+  <div class="paper-box-text">
+    <div class="paper-title">MUAD: Multimodal Unsupervised Anomaly Detection for Brain Disorder Screening with Structural and Functional MRI</div>
+    <div class="paper-authors">Yusong Sun, Dongdong Chen, <strong>Zhenyu Yi</strong>, Zhenhao Li, Rongteng Zhang, Zeling Liu, Jiaxuan Zhao, Yuqi Hu, Xu Han, Xinyu Wang, Qian Wang, Lichi Zhang.</div>
+    <ul class="paper-note-list">
+      <li>A multimodal normative modeling framework that integrates 3D T1 MRI and fMRI for zero-shot brain disorder anomaly detection.</li>
+    </ul>
+  </div>
+</div>
+
 <div class="paper-box paper-box-ppgl">
   <div class="paper-box-image">
     <div class="paper-badge">arXiv 2026</div>
@@ -262,7 +294,6 @@ redirect_from:
     <a class="paper-title" href="https://arxiv.org/abs/2603.21700" target="_blank" rel="noopener">PPGL-Swarm: Integrated Multimodal Risk Stratification and Hereditary Syndrome Detection in Pheochromocytoma and Paraganglioma</a>
     <div class="paper-authors">Zelin Liu, Xiangfu Yu, Jie Huang, Ge Wang, Yizhe Yuan, <strong>Zhenyu Yi</strong>, Jing Xie, Haotian Jiang, Lichi Zhang.</div>
     <div class="paper-links">
-      <a href="https://arxiv.org/abs/2603.21700" target="_blank" rel="noopener">arXiv</a>
       <a href="https://arxiv.org/pdf/2603.21700" target="_blank" rel="noopener">Paper</a>
     </div>
     <ul class="paper-note-list">
@@ -270,6 +301,7 @@ redirect_from:
     </ul>
   </div>
 </div>
+-->
 
 <span class='anchor' id='honors'></span>
 <h2 class="section-title">🎖 Honors and Awards</h2>
