@@ -110,10 +110,23 @@ body {
   opacity: 1 !important;
 }
 
-.author__avatar img {
-  border-radius: 22px;
+.profile_box > .author__avatar {
+  width: min(168px, 100%);
+  aspect-ratio: 1 / 1.12;
+  overflow: hidden;
+  border-radius: 18px;
   border: 1px solid var(--zy-line);
   box-shadow: var(--zy-shadow-sm);
+}
+
+.profile_box > .author__avatar img {
+  display: block;
+  width: 112%;
+  height: 112%;
+  object-fit: cover;
+  object-position: 48% 30%;
+  margin: -6%;
+  border-radius: 0;
 }
 
 .author__name {

@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhenyu Yi"
-  avatar           : "images/homepage.jpg"
+  avatar           : "images/me.png"
   bio              : "M.S. student @ Shanghai Jiao Tong University<br><br>Medical AI ·<br>Multimodal Learning ·<br>Efficient MLLMs"
   location         : "Shanghai, China"
   employer         :
