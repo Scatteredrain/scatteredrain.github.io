@@ -210,11 +210,11 @@ redirect_from:
     <img src="images/monobox.png" alt="MonoBox teaser" />
   </div>
   <div class="paper-box-text">
-    <a class="paper-title" href="https://arxiv.org/abs/2404.01188" target="_blank" rel="noopener">MonoBox: Tightness-free Box-supervised Polyp Segmentation using Monotonicity Constraint</a>
+    <a class="paper-title" href="https://arxiv.org/pdf/2404.01188v4" target="_blank" rel="noopener">MonoBox: Tightness-free Box-supervised Polyp Segmentation using Monotonicity Constraint</a>
     <div class="paper-authors">Qiang Hu, <strong>Zhenyu Yi</strong>, Ying Zhou, Fan Huang, Mei Liu, Qiang Li, Zhiwei Wang.</div>
     <div class="paper-links">
       <a href="https://github.com/Huster-Hq/MonoBox" target="_blank" rel="noopener">Code</a>
-      <a href="https://arxiv.org/abs/2404.01188" target="_blank" rel="noopener">Paper</a>
+      <a href="https://arxiv.org/pdf/2404.01188v4" target="_blank" rel="noopener">Paper</a>
     </div>
     <ul class="paper-note-list">
       <li>A box-supervised polyp segmentation method with a tightness-free monotonicity constraint.</li>
