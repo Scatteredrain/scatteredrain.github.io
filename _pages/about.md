@@ -104,6 +104,7 @@ redirect_from:
 <div class="news-card">
   <div class="news-scroll">
     <ul class="news-list">
+      <li><em>2026.08</em> ⚡ One paper <strong>CARVE</strong> was posted on <strong>arXiv</strong>.</li>
       <li><em>2026.06</em> ⚡ <strong>EndoVLM</strong> and <strong>Brain-Adapter</strong> were accepted to <strong>MICCAI 2026</strong>.</li>
       <li><em>2026.06</em> ⚡ <strong>E-MRL</strong> and <strong>CerviThink</strong> were accepted to <strong>MICCAI 2026</strong>.</li>
       <li><em>2026.02</em> ⚡ One paper <strong>SAMIX</strong> was accepted by <strong>CVPR 2026</strong>. Congratulations to <strong>Qiang Hu</strong>!</li>
@@ -153,7 +154,7 @@ redirect_from:
 
 <div class="paper-box paper-box-phenomil">
   <div class="paper-box-image">
-    <div class="paper-badge">MedIA <span class="paper-badge-accent">Minor Revision</span></div>
+    <div class="paper-badge">MedIA</div>
     <img src="images/phenomil.png" alt="PhenoMIL teaser" />
   </div>
   <div class="paper-box-text">
@@ -249,6 +250,23 @@ redirect_from:
     <div class="paper-authors">Manman Fei, Haotian Jiang, <strong>Zhenyu Yi</strong>, Qian Wang, Lichi Zhang.</div>
     <ul class="paper-note-list">
       <li>An RL-based visual reasoning framework for cervical cancer cell classification.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="paper-badge">arXiv 2026</div>
+    <img src="images/carve.png" alt="CARVE teaser" />
+  </div>
+  <div class="paper-box-text">
+    <a class="paper-title" href="https://arxiv.org/abs/2608.04515" target="_blank" rel="noopener">CARVE: Cross-Slice Anisotropic Reallocation of Visual Evidence for Efficient 3D Medical Volume Understanding</a>
+    <div class="paper-authors"><strong>Zhenyu Yi</strong>, Qiang Hu, Zhenhao Li, Jiaxuan Zhao, Yusong Sun, Lichi Zhang.</div>
+    <div class="paper-links">
+      <a href="https://arxiv.org/pdf/2608.04515" target="_blank" rel="noopener">Paper</a>
+    </div>
+    <ul class="paper-note-list">
+      <li>A training-free token allocation framework for efficient 3D medical volume understanding with cross-slice evidence reallocation.</li>
     </ul>
   </div>
 </div>
