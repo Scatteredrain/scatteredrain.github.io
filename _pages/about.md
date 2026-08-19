@@ -50,7 +50,7 @@ redirect_from:
 
   <div class="research-scope">
     <p>
-      My research focuses on <span style="font-weight:700; color:#1d4ed8;">medical image analysis</span> and
+      My research focuses on <span style="font-weight:700; color:#1d4ed8;">computer vision</span> and
       <span style="font-weight:700; color:#4f46e5;">medical AI</span>, with particular interest in
       <span style="font-weight:600; color:#7c3aed;">endoscopic image and video segmentation and diagnosis</span> and
       <span style="font-weight:600; color:#2563eb;">brain imaging diagnosis</span>. I am also interested in
