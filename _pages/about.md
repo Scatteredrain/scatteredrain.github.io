@@ -125,7 +125,7 @@ redirect_from:
     <img src="images/endovlm.png" alt="EndoVLM teaser" />
   </div>
   <div class="paper-box-text">
-    <div class="paper-title">EndoVLM: An Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment</div>
+    <a class="paper-title" href="/papers/endovlm/">EndoVLM: An Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment</a>
     <div class="paper-authors"><strong>Zhenyu Yi*</strong>, Jianwei Xu*, Yue Hu, Zhongwei Qiu, Sijing Li, Liang Huang, Bin Lv, Ling Zhang, Yingda Xia.</div>
     <div class="paper-links">
       <a href="https://scholar.google.com/citations?user=yoY2un8AAAAJ&hl=zh-CN" target="_blank" rel="noopener">Scholar</a>
@@ -142,7 +142,7 @@ redirect_from:
     <img src="images/brain-adapter.png" alt="Brain-Adapter teaser" />
   </div>
   <div class="paper-box-text">
-    <a class="paper-title" href="https://github.com/Scatteredrain/Brain-Adapter" target="_blank" rel="noopener">Brain-Adapter: A Dual-Stream Vision-Language MIL Framework for Comprehensive 3D CT Diagnosis of Acute Intracranial Pathologies</a>
+    <a class="paper-title" href="/papers/brain-adapter/">Brain-Adapter: A Dual-Stream Vision-Language MIL Framework for Comprehensive 3D CT Diagnosis of Acute Intracranial Pathologies</a>
     <div class="paper-authors"><strong>Zhenyu Yi</strong>, Zhiyun Song, Yusong Sun, Zelin Liu, Manman Fei, Zhenhao Li, Jiaxuan Zhao, Xu Han, Lichi Zhang.</div>
     <div class="paper-links">
       <a href="https://github.com/Scatteredrain/Brain-Adapter" target="_blank" rel="noopener">Code</a>
@@ -159,7 +159,7 @@ redirect_from:
     <img src="images/phenomil.png" alt="PhenoMIL teaser" />
   </div>
   <div class="paper-box-text">
-    <a class="paper-title" href="https://github.com/Scatteredrain/PhenoMIL" target="_blank" rel="noopener">Learning from Limited Phenotype-Level Annotations for Promoting Multiple Instance Learning in Endoscopic Helicobacter pylori Infection Diagnosis</a>
+    <a class="paper-title" href="/papers/phenomil/">Learning from Limited Phenotype-Level Annotations for Promoting Multiple Instance Learning in Endoscopic Helicobacter pylori Infection Diagnosis</a>
     <div class="paper-authors"><strong>Zhenyu Yi*</strong>, Jianwei Xu*, Yue Hu*, Liang Huang, Zhilin Zheng, Haifeng Jin, Panpan Ma, Tanzhou Chen, Jie Pan, Xiaoyun Ding, Fangfang Zhang, Jiang Liu, Xiaoteng Wang, Yingda Xia, Bin Lv, Ling Zhang.</div>
     <div class="paper-links">
       <a href="https://github.com/Scatteredrain/PhenoMIL" target="_blank" rel="noopener">Code</a>
@@ -176,7 +176,7 @@ redirect_from:
     <img src="images/sali.png" alt="SALI teaser" />
   </div>
   <div class="paper-box-text">
-    <a class="paper-title" href="https://link.springer.com/chapter/10.1007/978-3-031-72089-5_50" target="_blank" rel="noopener">SALI: Short-Term Alignment and Long-Term Interaction Network for Colonoscopy Video Polyp Segmentation</a>
+    <a class="paper-title" href="/papers/sali/">SALI: Short-Term Alignment and Long-Term Interaction Network for Colonoscopy Video Polyp Segmentation</a>
     <div class="paper-authors">Qiang Hu*, <strong>Zhenyu Yi*</strong>, Ying Zhou, Fang Peng, Mei Liu, Qiang Li, Zhiwei Wang.</div>
     <div class="paper-links">
       <a href="https://github.com/Scatteredrain/SALI" target="_blank" rel="noopener">Code</a>
@@ -261,7 +261,7 @@ redirect_from:
     <img src="images/carve.png" alt="CARVE teaser" />
   </div>
   <div class="paper-box-text">
-    <a class="paper-title" href="https://arxiv.org/abs/2608.04515" target="_blank" rel="noopener">CARVE: Cross-Slice Anisotropic Reallocation of Visual Evidence for Efficient 3D Medical Volume Understanding</a>
+    <a class="paper-title" href="/papers/carve/">CARVE: Cross-Slice Anisotropic Reallocation of Visual Evidence for Efficient 3D Medical Volume Understanding</a>
     <div class="paper-authors"><strong>Zhenyu Yi</strong>, Qiang Hu, Zhenhao Li, Jiaxuan Zhao, Yusong Sun, Lichi Zhang.</div>
     <div class="paper-links">
       <a href="https://arxiv.org/pdf/2608.04515" target="_blank" rel="noopener">Paper</a>

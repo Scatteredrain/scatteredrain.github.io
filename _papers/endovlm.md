@@ -1,0 +1,32 @@
+---
+title: "EndoVLM: An Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment"
+venue: "MICCAI 2026"
+authors:
+  - name: "Zhenyu Yi"
+    note: "co-first"
+  - name: "Jianwei Xu"
+    note: "co-first"
+  - name: "Yue Hu"
+  - name: "Zhongwei Qiu"
+  - name: "Sijing Li"
+  - name: "Liang Huang"
+  - name: "Bin Lv"
+  - name: "Ling Zhang"
+  - name: "Yingda Xia"
+author_note: "* denotes co-first author (equal contribution)"
+image: "images/endovlm.png"
+tldr: "An endoscopy vision-language pre-training framework with anatomy-guided sparsity and progressive alignment."
+abstract: >-
+  The development of foundation models (FMs) is crucial for advancing endoscopic image analysis. However, existing endoscopy FMs mainly rely on self-supervised learning from uni-modal images or videos, overlooking the rich semantic knowledge contained in clinical reports. Furthermore, effectively leveraging these records is hindered by a fundamental modality gap: structured anatomical descriptions are not naturally mapped to specific frames within the high-redundancy, uncurated visual streams. In this paper, we present EndoVLM, a novel vision-language FM pre-trained on over 348K endoscopic examinations, each pairing a clinical report with its corresponding image collection. An Anatomy-Guided Sparse Pooling mechanism utilizes textual descriptions as queries to drive sparse attention, efficiently aggregating semantically salient frames into anatomy-specific visual representations across redundant image-sets. Next, a Progressive Semantic-Aware Alignment strategy models clinical taxonomy (anatomy and pathological status) via structured soft targets, bridging the gap from global patient-level matching to fine-grained localized alignment. Finally, a Semantic-Concentrated Masked Autoencoder is applied exclusively to these semantic-rich frames, integrating low-level visual precision with robust high-level semantic representation. Extensive experiments across various downstream tasks demonstrate that EndoVLM outperforms existing foundation models and remains competitive with task-specific methods. Remarkably, EndoVLM also exhibits robust zero-shot generalization capabilities, highlighting its potential for broader clinical application.
+links:
+  arxiv: "https://arxiv.org/abs/2608.04472"
+  pdf: "https://arxiv.org/pdf/2608.04472"
+  scholar: "https://scholar.google.com/citations?user=yoY2un8AAAAJ&hl=zh-CN"
+bibtex: |
+  @inproceedings{yi2026endovlm,
+    title     = {EndoVLM: An Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment},
+    author    = {Yi, Zhenyu and Xu, Jianwei and Hu, Yue and Qiu, Zhongwei and Li, Sijing and Huang, Liang and Lv, Bin and Zhang, Ling and Xia, Yingda},
+    booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
+    year      = {2026}
+  }
+---
