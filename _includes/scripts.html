@@ -1,4 +1,26 @@
 <script src="{{ 'assets/js/main.min.js' | relative_url }}"></script>
 
+<script>
+  (function () {
+    function externalize() {
+      var host = location.hostname;
+      var anchors = document.getElementsByTagName('a');
+      for (var i = 0; i < anchors.length; i++) {
+        var a = anchors[i];
+        var href = a.getAttribute('href') || '';
+        if (/^https?:\/\//i.test(href) && a.hostname && a.hostname !== host) {
+          a.target = '_blank';
+          a.rel = a.rel ? a.rel + ' noopener' : 'noopener';
+        }
+      }
+    }
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', externalize);
+    } else {
+      externalize();
+    }
+  })();
+</script>
+
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
