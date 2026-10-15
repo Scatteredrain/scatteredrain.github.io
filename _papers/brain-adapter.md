@@ -24,7 +24,12 @@ bibtex: |
   @inproceedings{yi2026brainadapter,
     title     = {Brain-Adapter: A Dual-Stream Vision-Language MIL Framework for Comprehensive 3D CT Diagnosis of Acute Intracranial Pathologies},
     author    = {Yi, Zhenyu and Song, Zhiyun and Sun, Yusong and Liu, Zelin and Fei, Manman and Li, Zhenhao and Zhao, Jiaxuan and Han, Xu and Zhang, Lichi},
-    booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
-    year      = {2026}
+    booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026},
+    series    = {Lecture Notes in Computer Science},
+    volume    = {16886},
+    pages     = {142--152},
+    publisher = {Springer Nature Switzerland},
+    year      = {2026},
+    doi       = {10.1007/978-3-032-38098-2_14}
   }
 ---

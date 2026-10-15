@@ -19,9 +19,13 @@ links:
   arxiv: "https://arxiv.org/abs/2608.04515"
 bibtex: |
   @article{yi2026carve,
-    title   = {CARVE: Cross-Slice Anisotropic Reallocation of Visual Evidence for Efficient 3D Medical Volume Understanding},
-    author  = {Yi, Zhenyu and Hu, Qiang and Li, Zhenhao and Zhao, Jiaxuan and Sun, Yusong and Zhang, Lichi},
-    journal = {arXiv preprint arXiv:2608.04515},
-    year    = {2026}
+    title         = {CARVE: Cross-Slice Anisotropic Reallocation of Visual Evidence for Efficient 3D Medical Volume Understanding},
+    author        = {Yi, Zhenyu and Hu, Qiang and Li, Zhenhao and Zhao, Jiaxuan and Sun, Yusong and Zhang, Lichi},
+    journal       = {arXiv preprint arXiv:2608.04515},
+    year          = {2026},
+    eprint        = {2608.04515},
+    archivePrefix = {arXiv},
+    primaryClass  = {cs.CV},
+    url           = {https://arxiv.org/abs/2608.04515}
   }
 ---

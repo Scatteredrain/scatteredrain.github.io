@@ -35,6 +35,9 @@ bibtex: |
     title   = {Learning from Limited Phenotype-Level Annotations for Promoting Multiple Instance Learning in Endoscopic Helicobacter pylori Infection Diagnosis},
     author  = {Yi, Zhenyu and Xu, Jianwei and Hu, Yue and Huang, Liang and Zheng, Zhilin and Jin, Haifeng and Ma, Panpan and Chen, Tanzhou and Pan, Jie and Ding, Xiaoyun and Zhang, Fangfang and Liu, Jiang and Wang, Xiaoteng and Xia, Yingda and Lv, Bin and Zhang, Ling},
     journal = {Medical Image Analysis},
-    year    = {2026}
+    volume  = {114},
+    pages   = {104267},
+    year    = {2026},
+    doi     = {10.1016/j.media.2026.104267}
   }
 ---

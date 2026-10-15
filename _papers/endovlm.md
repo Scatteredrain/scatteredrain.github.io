@@ -26,7 +26,12 @@ bibtex: |
   @inproceedings{yi2026endovlm,
     title     = {EndoVLM: An Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment},
     author    = {Yi, Zhenyu and Xu, Jianwei and Hu, Yue and Qiu, Zhongwei and Li, Sijing and Huang, Liang and Lv, Bin and Zhang, Ling and Xia, Yingda},
-    booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
-    year      = {2026}
+    booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026},
+    series    = {Lecture Notes in Computer Science},
+    volume    = {16892},
+    pages     = {156--166},
+    publisher = {Springer Nature Switzerland},
+    year      = {2026},
+    doi       = {10.1007/978-3-032-38233-7_15}
   }
 ---

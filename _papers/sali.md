@@ -24,8 +24,13 @@ bibtex: |
   @inproceedings{hu2024sali,
     title     = {SALI: Short-Term Alignment and Long-Term Interaction Network for Colonoscopy Video Polyp Segmentation},
     author    = {Hu, Qiang and Yi, Zhenyu and Zhou, Ying and Peng, Fang and Liu, Mei and Li, Qiang and Wang, Zhiwei},
-    booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)},
+    booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2024},
+    series    = {Lecture Notes in Computer Science},
+    volume    = {15006},
+    pages     = {531--541},
+    publisher = {Springer Nature Switzerland},
     year      = {2024},
+    doi       = {10.1007/978-3-031-72089-5_50},
     note      = {Oral presentation}
   }
 ---
