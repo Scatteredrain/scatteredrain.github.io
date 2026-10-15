@@ -22,7 +22,6 @@ links:
   arxiv: "https://arxiv.org/abs/2608.04472"
   code: "https://github.com/Scatteredrain/EndoVLM"
   huggingface: "https://huggingface.co/Scatteredrain/EndoVLM"
-  scholar: "https://scholar.google.com/citations?user=yoY2un8AAAAJ&hl=zh-CN"
 bibtex: |
   @inproceedings{yi2026endovlm,
     title     = {EndoVLM: An Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment},

@@ -131,7 +131,6 @@ redirect_from:
       <a href="https://arxiv.org/abs/2608.04472" target="_blank" rel="noopener">arXiv</a>
       <a href="https://github.com/Scatteredrain/EndoVLM" target="_blank" rel="noopener">Code</a>
       <a href="https://huggingface.co/Scatteredrain/EndoVLM" target="_blank" rel="noopener">HF</a>
-      <a href="https://scholar.google.com/citations?user=yoY2un8AAAAJ&hl=zh-CN" target="_blank" rel="noopener">Scholar</a>
     </div>
     <ul class="paper-note-list">
       <li>An endoscopy VLM pretraining framework with anatomy-guided sparsity and progressive alignment.</li>
@@ -186,7 +185,6 @@ redirect_from:
     <div class="paper-links">
       <a href="https://github.com/Scatteredrain/SALI" target="_blank" rel="noopener">Code</a>
       <a href="https://link.springer.com/chapter/10.1007/978-3-031-72089-5_50" target="_blank" rel="noopener">Paper</a>
-      <a href="https://arxiv.org/abs/2406.13532" target="_blank" rel="noopener">arXiv</a>
     </div>
     <ul class="paper-note-list">
       <li>A hybrid temporal interaction network for colonoscopy video polyp segmentation.</li>
@@ -223,7 +221,6 @@ redirect_from:
     <div class="paper-links">
       <a href="https://github.com/Huster-Hq/MonoBox" target="_blank" rel="noopener">Code</a>
       <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32371" target="_blank" rel="noopener">Paper</a>
-      <a href="https://arxiv.org/abs/2404.01188" target="_blank" rel="noopener">arXiv</a>
     </div>
     <ul class="paper-note-list">
       <li>A box-supervised polyp segmentation method with a tightness-free monotonicity constraint.</li>
@@ -239,9 +236,6 @@ redirect_from:
   <div class="paper-box-text">
     <div class="paper-title">E-MRL: Cross-view Aligned Evidence-driven Multimodal Reinforcement Learning for Reliable 3D Tumor Analysis</div>
     <div class="paper-authors">Sijing Li, Zhongwei Qiu, Zhuoya Wang, Boxiang Yun, <strong>Zhenyu Yi</strong>, Jianwei Xu, Wenqiao Zhang, Yingda Xia, Ling Zhang.</div>
-    <div class="paper-links">
-      <a href="https://scholar.google.com/citations?user=yoY2un8AAAAJ&hl=zh-CN" target="_blank" rel="noopener">Scholar</a>
-    </div>
     <ul class="paper-note-list">
       <li>A cross-view evidence-driven multimodal RL framework for reliable 3D tumor analysis.</li>
     </ul>
