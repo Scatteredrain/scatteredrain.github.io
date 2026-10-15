@@ -1,5 +1,6 @@
 ---
 title: "SALI: Short-Term Alignment and Long-Term Interaction Network for Colonoscopy Video Polyp Segmentation"
+rank: 5
 venue: "MICCAI 2024"
 venue_note: "Oral (<3%)"
 authors:

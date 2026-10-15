@@ -1,5 +1,6 @@
 ---
 title: "EndoVLM: An Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment"
+rank: 2
 venue: "MICCAI 2026"
 authors:
   - name: "Zhenyu Yi"

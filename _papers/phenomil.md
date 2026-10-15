@@ -1,5 +1,6 @@
 ---
 title: "Learning from Limited Phenotype-Level Annotations for Promoting Multiple Instance Learning in Endoscopic Helicobacter pylori Infection Diagnosis"
+rank: 1
 venue: "Medical Image Analysis (MedIA)"
 venue_note: "2026"
 authors:

@@ -1,5 +1,6 @@
 ---
 title: "CARVE: Cross-Slice Anisotropic Reallocation of Visual Evidence for Efficient 3D Medical Volume Understanding"
+rank: 4
 venue: "arXiv"
 venue_note: "2026 · Preprint"
 authors:

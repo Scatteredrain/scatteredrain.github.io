@@ -119,6 +119,24 @@ redirect_from:
 <h2 class="section-title">📝 Selected Publications</h2>
 <p style="margin-top:-0.35rem; margin-bottom:1rem; color:#64748b; font-size:0.92rem;"><em>Note: * indicates co-first author.</em></p>
 
+<div class="paper-box paper-box-phenomil">
+  <div class="paper-box-image">
+    <div class="paper-badge">MedIA</div>
+    <img src="images/phenomil.png" alt="PhenoMIL teaser" />
+  </div>
+  <div class="paper-box-text">
+    <a class="paper-title" href="/papers/phenomil/">Learning from Limited Phenotype-Level Annotations for Promoting Multiple Instance Learning in Endoscopic Helicobacter pylori Infection Diagnosis</a>
+    <div class="paper-authors"><strong>Zhenyu Yi*</strong>, Jianwei Xu*, Yue Hu*, Liang Huang, Zhilin Zheng, Haifeng Jin, Panpan Ma, Tanzhou Chen, Jie Pan, Xiaoyun Ding, Fangfang Zhang, Jiang Liu, Xiaoteng Wang, Yingda Xia, Bin Lv, Ling Zhang.</div>
+    <div class="paper-links">
+      <a href="https://www.sciencedirect.com/science/article/pii/S1361841526003361" target="_blank" rel="noopener">Paper</a>
+      <a href="https://github.com/Scatteredrain/PhenoMIL" target="_blank" rel="noopener">Code</a>
+    </div>
+    <ul class="paper-note-list">
+      <li>A phenotype-aware MIL framework for endoscopic <em>H. pylori</em> infection diagnosis with limited fine-grained annotations.</li>
+    </ul>
+  </div>
+</div>
+
 <div class="paper-box">
   <div class="paper-box-image">
     <div class="paper-badge">MICCAI 2026</div>
@@ -156,38 +174,36 @@ redirect_from:
   </div>
 </div>
 
-<div class="paper-box paper-box-phenomil">
+<div class="paper-box">
   <div class="paper-box-image">
-    <div class="paper-badge">MedIA</div>
-    <img src="images/phenomil.png" alt="PhenoMIL teaser" />
+    <div class="paper-badge">arXiv 2026</div>
+    <img src="images/carve.png" alt="CARVE teaser" />
   </div>
   <div class="paper-box-text">
-    <a class="paper-title" href="/papers/phenomil/">Learning from Limited Phenotype-Level Annotations for Promoting Multiple Instance Learning in Endoscopic Helicobacter pylori Infection Diagnosis</a>
-    <div class="paper-authors"><strong>Zhenyu Yi*</strong>, Jianwei Xu*, Yue Hu*, Liang Huang, Zhilin Zheng, Haifeng Jin, Panpan Ma, Tanzhou Chen, Jie Pan, Xiaoyun Ding, Fangfang Zhang, Jiang Liu, Xiaoteng Wang, Yingda Xia, Bin Lv, Ling Zhang.</div>
+    <a class="paper-title" href="/papers/carve/">CARVE: Cross-Slice Anisotropic Reallocation of Visual Evidence for Efficient 3D Medical Volume Understanding</a>
+    <div class="paper-authors"><strong>Zhenyu Yi</strong>, Qiang Hu, Zhenhao Li, Jiaxuan Zhao, Yusong Sun, Lichi Zhang.</div>
     <div class="paper-links">
-      <a href="https://www.sciencedirect.com/science/article/pii/S1361841526003361" target="_blank" rel="noopener">Paper</a>
-      <a href="https://github.com/Scatteredrain/PhenoMIL" target="_blank" rel="noopener">Code</a>
+      <a href="https://arxiv.org/abs/2608.04515" target="_blank" rel="noopener">arXiv</a>
     </div>
     <ul class="paper-note-list">
-      <li>A phenotype-aware MIL framework for endoscopic <em>H. pylori</em> infection diagnosis with limited fine-grained annotations.</li>
+      <li>A training-free token allocation framework for efficient 3D medical volume understanding with cross-slice evidence reallocation.</li>
     </ul>
   </div>
 </div>
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <div class="paper-badge">MICCAI 2024 <span class="paper-badge-accent">Oral</span></div>
-    <img src="images/sali.png" alt="SALI teaser" />
+    <div class="paper-badge">MICCAI 2026</div>
+    <img src="images/cervithink.jpg" alt="CerviThink teaser" />
   </div>
   <div class="paper-box-text">
-    <a class="paper-title" href="/papers/sali/">SALI: Short-Term Alignment and Long-Term Interaction Network for Colonoscopy Video Polyp Segmentation</a>
-    <div class="paper-authors">Qiang Hu*, <strong>Zhenyu Yi*</strong>, Ying Zhou, Fang Peng, Mei Liu, Qiang Li, Zhiwei Wang.</div>
+    <div class="paper-title">CerviThink: A Reinforced Visual Reasoning Framework for Cervical Cancer Cell Classification</div>
+    <div class="paper-authors">Manman Fei, Haotian Jiang, <strong>Zhenyu Yi</strong>, Qian Wang, Lichi Zhang.</div>
     <div class="paper-links">
-      <a href="https://github.com/Scatteredrain/SALI" target="_blank" rel="noopener">Code</a>
-      <a href="https://link.springer.com/chapter/10.1007/978-3-031-72089-5_50" target="_blank" rel="noopener">Paper</a>
+      <a href="https://link.springer.com/chapter/10.1007/978-3-032-38062-3_9" target="_blank" rel="noopener">Paper</a>
     </div>
     <ul class="paper-note-list">
-      <li>A hybrid temporal interaction network for colonoscopy video polyp segmentation.</li>
+      <li>An RL-based visual reasoning framework for cervical cancer cell classification.</li>
     </ul>
   </div>
 </div>
@@ -212,6 +228,23 @@ redirect_from:
 
 <div class="paper-box">
   <div class="paper-box-image">
+    <div class="paper-badge">MICCAI 2026</div>
+    <img src="images/emrl.png" alt="E-MRL teaser" />
+  </div>
+  <div class="paper-box-text">
+    <div class="paper-title">E-MRL: Cross-View Aligned Evidence-Driven Multimodal Reinforcement Learning for Reliable 3D Tumor Analysis</div>
+    <div class="paper-authors">Sijing Li, Zhongwei Qiu, Zhuoya Wang, Boxiang Yun, <strong>Zhenyu Yi</strong>, Jianwei Xu, Wenqiao Zhang, Yingda Xia, Ling Zhang.</div>
+    <div class="paper-links">
+      <a href="https://link.springer.com/chapter/10.1007/978-3-032-38079-1_23" target="_blank" rel="noopener">Paper</a>
+    </div>
+    <ul class="paper-note-list">
+      <li>A cross-view evidence-driven multimodal RL framework for reliable 3D tumor analysis.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
     <div class="paper-badge">AAAI 2025</div>
     <img src="images/monobox.png" alt="MonoBox teaser" />
   </div>
@@ -230,51 +263,18 @@ redirect_from:
 
 <div class="paper-box">
   <div class="paper-box-image">
-    <div class="paper-badge">MICCAI 2026</div>
-    <img src="images/emrl.png" alt="E-MRL teaser" />
+    <div class="paper-badge">MICCAI 2024 <span class="paper-badge-accent">Oral</span></div>
+    <img src="images/sali.png" alt="SALI teaser" />
   </div>
   <div class="paper-box-text">
-    <div class="paper-title">E-MRL: Cross-View Aligned Evidence-Driven Multimodal Reinforcement Learning for Reliable 3D Tumor Analysis</div>
-    <div class="paper-authors">Sijing Li, Zhongwei Qiu, Zhuoya Wang, Boxiang Yun, <strong>Zhenyu Yi</strong>, Jianwei Xu, Wenqiao Zhang, Yingda Xia, Ling Zhang.</div>
+    <a class="paper-title" href="/papers/sali/">SALI: Short-Term Alignment and Long-Term Interaction Network for Colonoscopy Video Polyp Segmentation</a>
+    <div class="paper-authors">Qiang Hu*, <strong>Zhenyu Yi*</strong>, Ying Zhou, Fang Peng, Mei Liu, Qiang Li, Zhiwei Wang.</div>
     <div class="paper-links">
-      <a href="https://link.springer.com/chapter/10.1007/978-3-032-38079-1_23" target="_blank" rel="noopener">Paper</a>
+      <a href="https://github.com/Scatteredrain/SALI" target="_blank" rel="noopener">Code</a>
+      <a href="https://link.springer.com/chapter/10.1007/978-3-031-72089-5_50" target="_blank" rel="noopener">Paper</a>
     </div>
     <ul class="paper-note-list">
-      <li>A cross-view evidence-driven multimodal RL framework for reliable 3D tumor analysis.</li>
-    </ul>
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div class="paper-badge">MICCAI 2026</div>
-    <img src="images/cervithink.jpg" alt="CerviThink teaser" />
-  </div>
-  <div class="paper-box-text">
-    <div class="paper-title">CerviThink: A Reinforced Visual Reasoning Framework for Cervical Cancer Cell Classification</div>
-    <div class="paper-authors">Manman Fei, Haotian Jiang, <strong>Zhenyu Yi</strong>, Qian Wang, Lichi Zhang.</div>
-    <div class="paper-links">
-      <a href="https://link.springer.com/chapter/10.1007/978-3-032-38062-3_9" target="_blank" rel="noopener">Paper</a>
-    </div>
-    <ul class="paper-note-list">
-      <li>An RL-based visual reasoning framework for cervical cancer cell classification.</li>
-    </ul>
-  </div>
-</div>
-
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div class="paper-badge">arXiv 2026</div>
-    <img src="images/carve.png" alt="CARVE teaser" />
-  </div>
-  <div class="paper-box-text">
-    <a class="paper-title" href="/papers/carve/">CARVE: Cross-Slice Anisotropic Reallocation of Visual Evidence for Efficient 3D Medical Volume Understanding</a>
-    <div class="paper-authors"><strong>Zhenyu Yi</strong>, Qiang Hu, Zhenhao Li, Jiaxuan Zhao, Yusong Sun, Lichi Zhang.</div>
-    <div class="paper-links">
-      <a href="https://arxiv.org/abs/2608.04515" target="_blank" rel="noopener">arXiv</a>
-    </div>
-    <ul class="paper-note-list">
-      <li>A training-free token allocation framework for efficient 3D medical volume understanding with cross-slice evidence reallocation.</li>
+      <li>A hybrid temporal interaction network for colonoscopy video polyp segmentation.</li>
     </ul>
   </div>
 </div>

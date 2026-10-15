@@ -10,7 +10,8 @@ author_profile: true
 <p style="margin-top:-0.35rem; margin-bottom:1.2rem; color:#64748b; font-size:0.92rem;">First-author and co-first-author papers. Click any title for details, abstract, and BibTeX.</p>
 
 <div class="papers-index">
-  {% for p in site.papers %}
+  {% assign sorted_papers = site.papers | sort: "rank" %}
+  {% for p in sorted_papers %}
     <a class="pi-card" href="{{ p.url | relative_url }}">
       <div class="pi-main">
         {% if p.venue %}<span class="pi-badge">{{ p.venue }}{% if p.venue_note %} · {{ p.venue_note }}{% endif %}</span>{% endif %}
