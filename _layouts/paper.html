@@ -51,11 +51,12 @@ layout: default
     <section class="pl-section">
       <h2 class="pl-section-title">Resources</h2>
       <div class="pl-links">
-        {% if page.links.pdf %}<a class="pl-btn" href="{{ page.links.pdf }}" target="_blank" rel="noopener">📄 Paper</a>{% endif %}
+        {% if page.links.paper %}<a class="pl-btn" href="{{ page.links.paper }}" target="_blank" rel="noopener">📄 Paper</a>{% endif %}
+        {% if page.links.arxiv %}<a class="pl-btn" href="{{ page.links.arxiv }}" target="_blank" rel="noopener">📑 arXiv</a>{% endif %}
         {% if page.links.code %}<a class="pl-btn" href="{{ page.links.code }}" target="_blank" rel="noopener">💻 Code</a>{% endif %}
+        {% if page.links.huggingface %}<a class="pl-btn" href="{{ page.links.huggingface }}" target="_blank" rel="noopener">🤗 HF</a>{% endif %}
         {% if page.links.project %}<a class="pl-btn" href="{{ page.links.project }}" target="_blank" rel="noopener">🔗 Project</a>{% endif %}
         {% if page.links.scholar %}<a class="pl-btn" href="{{ page.links.scholar }}" target="_blank" rel="noopener">🎓 Scholar</a>{% endif %}
-        {% if page.links.arxiv %}<a class="pl-btn" href="{{ page.links.arxiv }}" target="_blank" rel="noopener">📑 arXiv</a>{% endif %}
       </div>
     </section>
   {% endif %}

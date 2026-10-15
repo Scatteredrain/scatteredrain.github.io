@@ -128,6 +128,9 @@ redirect_from:
     <a class="paper-title" href="/papers/endovlm/">EndoVLM: An Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment</a>
     <div class="paper-authors"><strong>Zhenyu Yi*</strong>, Jianwei Xu*, Yue Hu, Zhongwei Qiu, Sijing Li, Liang Huang, Bin Lv, Ling Zhang, Yingda Xia.</div>
     <div class="paper-links">
+      <a href="https://arxiv.org/abs/2608.04472" target="_blank" rel="noopener">arXiv</a>
+      <a href="https://github.com/Scatteredrain/EndoVLM" target="_blank" rel="noopener">Code</a>
+      <a href="https://huggingface.co/Scatteredrain/EndoVLM" target="_blank" rel="noopener">HF</a>
       <a href="https://scholar.google.com/citations?user=yoY2un8AAAAJ&hl=zh-CN" target="_blank" rel="noopener">Scholar</a>
     </div>
     <ul class="paper-note-list">
@@ -145,6 +148,7 @@ redirect_from:
     <a class="paper-title" href="/papers/brain-adapter/">Brain-Adapter: A Dual-Stream Vision-Language MIL Framework for Comprehensive 3D CT Diagnosis of Acute Intracranial Pathologies</a>
     <div class="paper-authors"><strong>Zhenyu Yi</strong>, Zhiyun Song, Yusong Sun, Zelin Liu, Manman Fei, Zhenhao Li, Jiaxuan Zhao, Xu Han, Lichi Zhang.</div>
     <div class="paper-links">
+      <a href="https://arxiv.org/abs/2606.23494" target="_blank" rel="noopener">arXiv</a>
       <a href="https://github.com/Scatteredrain/Brain-Adapter" target="_blank" rel="noopener">Code</a>
     </div>
     <ul class="paper-note-list">
@@ -162,6 +166,7 @@ redirect_from:
     <a class="paper-title" href="/papers/phenomil/">Learning from Limited Phenotype-Level Annotations for Promoting Multiple Instance Learning in Endoscopic Helicobacter pylori Infection Diagnosis</a>
     <div class="paper-authors"><strong>Zhenyu Yi*</strong>, Jianwei Xu*, Yue Hu*, Liang Huang, Zhilin Zheng, Haifeng Jin, Panpan Ma, Tanzhou Chen, Jie Pan, Xiaoyun Ding, Fangfang Zhang, Jiang Liu, Xiaoteng Wang, Yingda Xia, Bin Lv, Ling Zhang.</div>
     <div class="paper-links">
+      <a href="https://www.sciencedirect.com/science/article/pii/S1361841526003361" target="_blank" rel="noopener">Paper</a>
       <a href="https://github.com/Scatteredrain/PhenoMIL" target="_blank" rel="noopener">Code</a>
     </div>
     <ul class="paper-note-list">
@@ -180,7 +185,8 @@ redirect_from:
     <div class="paper-authors">Qiang Hu*, <strong>Zhenyu Yi*</strong>, Ying Zhou, Fang Peng, Mei Liu, Qiang Li, Zhiwei Wang.</div>
     <div class="paper-links">
       <a href="https://github.com/Scatteredrain/SALI" target="_blank" rel="noopener">Code</a>
-      <a href="https://arxiv.org/abs/2406.13532" target="_blank" rel="noopener">Paper</a>
+      <a href="https://link.springer.com/chapter/10.1007/978-3-031-72089-5_50" target="_blank" rel="noopener">Paper</a>
+      <a href="https://arxiv.org/abs/2406.13532" target="_blank" rel="noopener">arXiv</a>
     </div>
     <ul class="paper-note-list">
       <li>A hybrid temporal interaction network for colonoscopy video polyp segmentation.</li>
@@ -216,7 +222,8 @@ redirect_from:
     <div class="paper-authors">Qiang Hu, <strong>Zhenyu Yi</strong>, Ying Zhou, Fan Huang, Mei Liu, Qiang Li, Zhiwei Wang.</div>
     <div class="paper-links">
       <a href="https://github.com/Huster-Hq/MonoBox" target="_blank" rel="noopener">Code</a>
-      <a href="https://arxiv.org/pdf/2404.01188v4" target="_blank" rel="noopener">Paper</a>
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/32371" target="_blank" rel="noopener">Paper</a>
+      <a href="https://arxiv.org/abs/2404.01188" target="_blank" rel="noopener">arXiv</a>
     </div>
     <ul class="paper-note-list">
       <li>A box-supervised polyp segmentation method with a tightness-free monotonicity constraint.</li>
@@ -264,7 +271,7 @@ redirect_from:
     <a class="paper-title" href="/papers/carve/">CARVE: Cross-Slice Anisotropic Reallocation of Visual Evidence for Efficient 3D Medical Volume Understanding</a>
     <div class="paper-authors"><strong>Zhenyu Yi</strong>, Qiang Hu, Zhenhao Li, Jiaxuan Zhao, Yusong Sun, Lichi Zhang.</div>
     <div class="paper-links">
-      <a href="https://arxiv.org/pdf/2608.04515" target="_blank" rel="noopener">Paper</a>
+      <a href="https://arxiv.org/abs/2608.04515" target="_blank" rel="noopener">arXiv</a>
     </div>
     <ul class="paper-note-list">
       <li>A training-free token allocation framework for efficient 3D medical volume understanding with cross-slice evidence reallocation.</li>
