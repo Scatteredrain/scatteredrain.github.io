@@ -35,11 +35,15 @@ redirect_from:
         <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
         <span>Open to Collaboration</span>
       </span>
+      <a class="about-status-badge" href="/#phd">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 1 9l11 6 9-4.91V17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M5 12v5c0 1.1 3.1 3 7 3s7-1.9 7-3v-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <span>Prospective PhD &mdash; Fall 2028</span>
+      </a>
     </div>
   </div>
 
   <p class="about-intro">
-    Hi, I am <strong>Zhenyu Yi (伊振宇)</strong>. I am now a first-year
+    Hi, I am <strong>Zhenyu Yi (伊振宇)</strong>. I am now a second-year
     M.S. student at <strong>Shanghai Jiao Tong University</strong>, advised by
     <a href="https://scholar.google.com/citations?user=YEYK0MoAAAAJ&hl=zh-CN&oi=ao">Lichi Zhang</a> and
     <a href="https://scholar.google.com/citations?hl=zh-CN&user=m6ZNDewAAAAJ">Qian Wang</a>. I also worked as a Research Intern at
@@ -99,11 +103,58 @@ redirect_from:
   </div>
 </div>
 
+<span class='anchor' id='phd'></span>
+<div class="phd-card">
+  <div class="phd-head">
+    <h2 class="phd-title"><span class="phd-dot"></span> Prospective PhD Student &mdash; Fall 2028</h2>
+    <span class="phd-tag">Applying 2027 / 2028 cycle</span>
+  </div>
+  <p class="phd-lead">
+    I expect to finish my M.S. at <strong>Shanghai Jiao Tong University</strong> in 2028 and am looking for a
+    <strong>fully funded PhD group starting Fall 2028</strong>, working on
+    <strong>medical image computing</strong> &mdash; endoscopic vision-language pre-training,
+    structured weak supervision from clinical reports, and <strong>efficient multimodal LLMs for 3D
+    imaging and video</strong>. I have first-author or co-first-author papers in MICCAI, MedIA, AAAI and CVPR
+    on exactly these topics, and I release code for all of them. If your group is recruiting for 2028,
+    I would be glad to hear from you &mdash; or to trade notes with anyone applying in the same cycle.
+  </p>
+  <div class="phd-chips">
+    <span class="phd-chip">Endoscopy vision-language pre-training</span>
+    <span class="phd-chip">Report / phenotype-level weak supervision</span>
+    <span class="phd-chip">3D CT vision-language MIL</span>
+    <span class="phd-chip">Visual-token budgeting for medical MLLMs</span>
+  </div>
+  <div class="phd-grid">
+    <a class="phd-item" href="/papers/endovlm/">
+      <div class="phd-item-name">Endoscopy vision-language pre-training</div>
+      <div class="phd-item-org">348K examinations, anatomy-conditioned</div>
+      <div class="phd-item-note">Where I want to go next: longitudinal, multi-centre report-aligned pre-training that no one has to pixel-label.</div>
+    </a>
+    <a class="phd-item" href="/papers/phenomil/">
+      <div class="phd-item-name">Structured weak supervision</div>
+      <div class="phd-item-org">Reports, phenotypes, outcomes</div>
+      <div class="phd-item-note">PhenoMIL and SALI both start from the supervision clinicians actually produce; I want to make that the default training signal.</div>
+    </a>
+    <a class="phd-item" href="/papers/carve/">
+      <div class="phd-item-name">Efficient medical MLLMs</div>
+      <div class="phd-item-org">Visual-token budgeting for 3D &amp; video</div>
+      <div class="phd-item-note">CARVE and Brain-Adapter spend the token budget where the diagnosis is, instead of uniformly over slices.</div>
+    </a>
+    <a class="phd-item" href="mailto:yezey7479@gmail.com">
+      <div class="phd-item-name">Open to 2028 offers &amp; visits</div>
+      <div class="phd-item-org">Fall 2028 entry &middot; funded positions</div>
+      <div class="phd-item-note">Visiting stays and co-supervision in 2027 welcome; happy to send CV, code and a one-page statement.</div>
+    </a>
+  </div>
+  <a class="phd-more" href="/phd/">Target groups, programmes &amp; timeline &rarr;</a>
+</div>
+
 <span class='anchor' id='news'></span>
 <h2 class="section-title">🔥 News</h2>
 <div class="news-card">
   <div class="news-scroll">
     <ul class="news-list">
+      <li><em>2026.10</em> 🎓 I will be looking for <strong>fully funded PhD positions starting Fall 2028</strong>. See <a href="/phd/">PhD Plans 2028</a> for what I work on and where I hope to contribute.</li>
       <li><em>2026.08</em> ⚡ Our paper <strong>PhenoMIL</strong> was accepted by <strong>Medical Image Analysis (MedIA)</strong>.</li>
       <li><em>2026.08</em> ⚡ One paper <strong>CARVE</strong> was posted on <strong>arXiv</strong>.</li>
       <li><em>2026.06</em> ⚡ <strong>EndoVLM</strong> and <strong>Brain-Adapter</strong> were accepted to <strong>MICCAI 2026</strong>.</li>

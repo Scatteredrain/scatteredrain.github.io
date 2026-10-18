@@ -8,7 +8,11 @@
   {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 
+{% if page.title and page.title != "" %}
+<title>{{ page.title }} - {{ site.title }}</title>
+{% else %}
 <title>{{ site.title }} - Homepage</title>
+{% endif %}
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
