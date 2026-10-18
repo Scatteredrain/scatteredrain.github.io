@@ -818,7 +818,7 @@ body {
 
 }
 
-/* ---------- PhD 2028 call ---------- */
+/* ---------- PhD 2028 notice ---------- */
 a.about-status-badge {
   text-decoration: none;
 }
@@ -831,12 +831,12 @@ a.about-status-badge:hover {
 .phd-card {
   position: relative;
   overflow: hidden;
-  margin: 1.4rem 0 1.1rem;
-  padding: 1.5rem 1.7rem;
-  border-radius: var(--zy-radius-lg);
-  border: 1px solid rgba(79, 70, 229, 0.22);
-  background: linear-gradient(135deg, #ffffff 0%, #f5f3ff 46%, #ecfeff 100%);
-  box-shadow: var(--zy-shadow-md);
+  margin: 1.3rem 0 1.1rem;
+  padding: 1.05rem 1.35rem;
+  border-radius: var(--zy-radius-md);
+  border: 1px solid rgba(79, 70, 229, 0.24);
+  background: linear-gradient(135deg, #ffffff 0%, #f5f3ff 52%, #ecfeff 100%);
+  box-shadow: var(--zy-shadow-sm);
 }
 
 .phd-card::before {
@@ -845,218 +845,34 @@ a.about-status-badge:hover {
   top: 0;
   bottom: 0;
   left: 0;
-  width: 5px;
+  width: 4px;
   background: linear-gradient(180deg, var(--zy-accent), var(--zy-accent-3));
 }
 
-.phd-card > * {
+.phd-line {
   position: relative;
   z-index: 1;
-}
-
-.phd-head {
   display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;
-  gap: 0.75rem;
-}
-
-.phd-title {
-  display: flex;
-  align-items: center;
-  gap: 0.6rem;
+  align-items: flex-start;
+  gap: 0.62rem;
   margin: 0;
-  font-family: "Fraunces", serif;
-  font-size: 1.42rem;
-  font-weight: 700;
+  color: var(--zy-text-soft);
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.phd-line strong {
   color: var(--zy-text);
 }
 
 .phd-dot {
-  width: 10px;
-  height: 10px;
+  flex: 0 0 auto;
+  width: 9px;
+  height: 9px;
+  margin-top: 0.5rem;
   border-radius: 50%;
   background: var(--zy-emerald);
   animation: zyPulseDot 1.9s ease-in-out infinite;
-}
-
-.phd-tag {
-  padding: 0.3rem 0.78rem;
-  border-radius: 999px;
-  border: 1px solid rgba(79, 70, 229, 0.2);
-  background: rgba(79, 70, 229, 0.09);
-  color: var(--zy-accent);
-  font-size: 0.78rem;
-  font-weight: 700;
-  letter-spacing: 0.04em;
-}
-
-.phd-lead {
-  margin: 0.9rem 0 0;
-  color: var(--zy-text-soft);
-  font-size: 1rem;
-  line-height: 1.75;
-}
-
-.phd-chips {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  margin-top: 1rem;
-}
-
-.phd-chip {
-  padding: 0.34rem 0.8rem;
-  border-radius: 999px;
-  border: 1px solid var(--zy-line);
-  background: rgba(255, 255, 255, 0.88);
-  color: var(--zy-text-soft);
-  font-size: 0.83rem;
-  font-weight: 600;
-}
-
-.phd-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(238px, 1fr));
-  gap: 0.85rem;
-  margin-top: 1.2rem;
-}
-
-.phd-item {
-  display: block;
-  padding: 0.9rem 1rem;
-  border-radius: var(--zy-radius-md);
-  border: 1px solid var(--zy-line);
-  background: rgba(255, 255, 255, 0.93);
-  text-decoration: none;
-  transition: transform 0.18s, box-shadow 0.18s, border-color 0.18s;
-}
-
-.phd-item:hover {
-  transform: translateY(-3px);
-  box-shadow: var(--zy-shadow-md);
-  border-color: rgba(79, 70, 229, 0.34);
-  text-decoration: none;
-}
-
-.phd-item-name {
-  color: var(--zy-text);
-  font-size: 0.95rem;
-  font-weight: 700;
-  line-height: 1.45;
-}
-
-.phd-item-org {
-  margin-top: 0.22rem;
-  color: var(--zy-accent);
-  font-size: 0.83rem;
-  font-weight: 600;
-}
-
-.phd-item-note {
-  margin-top: 0.4rem;
-  color: var(--zy-text-muted);
-  font-size: 0.82rem;
-  line-height: 1.55;
-}
-
-.phd-more {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.42rem;
-  margin-top: 1.2rem;
-  padding: 0.52rem 1.05rem;
-  border-radius: 999px;
-  background: var(--zy-accent);
-  color: #fff !important;
-  font-size: 0.88rem;
-  font-weight: 700;
-  text-decoration: none;
-}
-
-.phd-more:hover {
-  background: #4338ca;
-  color: #fff !important;
-}
-
-.phd-block-title {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  margin: 2rem 0 0.2rem;
-  font-family: "Fraunces", serif;
-  font-size: 1.16rem;
-  font-weight: 700;
-  color: var(--zy-text);
-}
-
-.phd-sub {
-  margin: 0.2rem 0 0.6rem;
-  color: var(--zy-text-muted);
-  font-size: 0.88rem;
-  line-height: 1.6;
-}
-
-.phd-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin-top: 0.7rem;
-  font-size: 0.88rem;
-}
-
-.phd-table th,
-.phd-table td {
-  padding: 0.55rem 0.7rem;
-  border-bottom: 1px solid var(--zy-line);
-  text-align: left;
-  vertical-align: top;
-  line-height: 1.55;
-}
-
-.phd-table th {
-  background: rgba(79, 70, 229, 0.06);
-  color: var(--zy-text);
-  font-weight: 700;
-  white-space: nowrap;
-}
-
-.phd-table td {
-  color: var(--zy-text-soft);
-}
-
-.phd-table tbody tr:hover td {
-  background: rgba(244, 247, 252, 0.8);
-}
-
-.phd-table code {
-  padding: 0.06rem 0.34rem;
-  border-radius: 6px;
-  background: rgba(79, 70, 229, 0.08);
-  color: var(--zy-accent);
-  font-size: 0.82em;
-}
-
-.phd-list {
-  margin: 0.6rem 0 0;
-  padding-left: 1.15rem;
-  color: var(--zy-text-soft);
-  line-height: 1.78;
-}
-
-.phd-list li::marker {
-  color: var(--zy-accent);
-}
-
-.phd-footnote {
-  margin-top: 1.6rem;
-  padding: 0.85rem 1rem;
-  border-radius: var(--zy-radius-sm);
-  border: 1px dashed var(--zy-line-strong);
-  background: rgba(244, 247, 252, 0.7);
-  color: var(--zy-text-muted);
-  font-size: 0.83rem;
-  line-height: 1.65;
 }
 
 @keyframes zyPulseDot {
@@ -1066,19 +882,10 @@ a.about-status-badge:hover {
 
 @media (max-width: 640px) {
   .phd-card {
-    padding: 1.15rem 1.05rem;
-  }
-
-  .phd-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .phd-table,
-  .phd-table th,
-  .phd-table td {
-    font-size: 0.82rem;
+    padding: 0.95rem 1rem;
   }
 }
+
 </style>
 
 <!-- end custom head snippets -->
