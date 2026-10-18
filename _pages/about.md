@@ -114,8 +114,10 @@ redirect_from:
     <strong>fully funded PhD group starting Fall 2028</strong>, working on
     <strong>medical image computing</strong> &mdash; endoscopic vision-language pre-training,
     structured weak supervision from clinical reports, and <strong>efficient multimodal LLMs for 3D
-    imaging and video</strong>. I have first-author or co-first-author papers in MICCAI, MedIA, AAAI and CVPR
-    on exactly these topics, and I release code for all of them. If your group is recruiting for 2028,
+    imaging and video</strong>. My first- and co-first-author work has appeared at
+    <strong>MICCAI</strong> (including an Oral) and in <strong>Medical Image Analysis</strong>, with further
+    first-author work on arXiv and co-authored papers at CVPR and AAAI, and I release code for all of it.
+    If your group is recruiting for 2028,
     I would be glad to hear from you &mdash; or to trade notes with anyone applying in the same cycle.
   </p>
   <div class="phd-chips">
