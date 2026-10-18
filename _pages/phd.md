@@ -107,7 +107,33 @@ author_profile: true
   </a>
 </div>
 
+<h2 class="phd-block-title">🌏 Groups recruiting for a 2027 &rarr; 2028 cycle</h2>
+<p class="phd-sub">Read directly off each group's own page in October 2026. A group already advertising a 2027 Fall intake is the one most likely to have a 2028 seat &mdash; and the one where a 2027 visiting stay can turn into it.</p>
+<div class="phd-grid">
+  <a class="phd-item" href="https://yuemingjin.github.io/" target="_blank" rel="noopener">
+    <div class="phd-item-name">Yueming Jin</div>
+    <div class="phd-item-org">NUS &middot; BME + ECE &middot; surgical &amp; endoscopic AI</div>
+    <div class="phd-item-note">Page states the lab is actively looking for <em>PhD (2027 Spring) / postdoc / visiting students / RA / interns</em>. Closest fit to the EndoVLM direction.</div>
+  </a>
+  <a class="phd-item" href="https://www.cse.cuhk.edu.hk/~qdou/" target="_blank" rel="noopener">
+    <div class="phd-item-name">Qi Dou &middot; Med-AIR</div>
+    <div class="phd-item-org">CUHK &middot; Computer Science &amp; Engineering</div>
+    <div class="phd-item-note">Recruiting PhD candidates for <em>2027 Fall admission</em>; medical vision-language, agentic and embodied medical AI, LLM/XR for medical education.</div>
+  </a>
+  <a class="phd-item" href="https://www.zongweiz.com/opportunity" target="_blank" rel="noopener">
+    <div class="phd-item-name">Zongwei Zhou</div>
+    <div class="phd-item-org">Johns Hopkins &middot; Whiting School of Engineering</div>
+    <div class="phd-item-note">Maintains a dedicated opportunity page for medical imaging foundation models &mdash; the kind of group where a 2028 start is discussed directly rather than through a fixed posting.</div>
+  </a>
+  <a class="phd-item" href="https://www.midl.io/job-board" target="_blank" rel="noopener">
+    <div class="phd-item-name">TUM, MPI, DKFZ &amp; the German vacancy pool</div>
+    <div class="phd-item-org">Germany &middot; TV-L E13 salaried doctorates</div>
+    <div class="phd-item-note">Endoscopy image analysis and intra-operative AI sit in TUM's MICORLAB-adjacent groups and in Helmholtz / MPI labs; they hire through advertised positions with real deadlines (e.g. a TUM PhD call that closed 7 June 2026), so a planned 2028 entry means watching from late 2027.</div>
+  </a>
+</div>
+
 <!--PHD_TARGETS-->
+
 
 <h2 class="phd-block-title">📡 Where 2028 openings actually appear</h2>
 <p class="phd-sub">Checked and reachable today. Vacancy-driven systems (NL, DE, Nordic, UK studentships) announce a 2028 start mostly between late 2027 and mid 2028, so monitoring beats guessing.</p>
