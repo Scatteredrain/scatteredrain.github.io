@@ -109,6 +109,16 @@ author_profile: true
 
 <!--PHD_TARGETS-->
 
+<h2 class="phd-block-title">📡 Where 2028 openings actually appear</h2>
+<p class="phd-sub">Checked and reachable today. Vacancy-driven systems (NL, DE, Nordic, UK studentships) announce a 2028 start mostly between late 2027 and mid 2028, so monitoring beats guessing.</p>
+<ul class="phd-list">
+  <li><a href="https://www.midl.io/job-board" target="_blank" rel="noopener">MIDL Job Board</a> &mdash; medical imaging deep learning openings (PhD, postdoc, RA) across DE, US, UK, NL, FR, Nordic, Switzerland, UAE; postings are rolling and rarely name a start year, so a 2028 start is usually negotiable by email.</li>
+  <li><a href="https://academictransfer.com/en/" target="_blank" rel="noopener">Academic Transfer</a> &mdash; the Dutch platform where PhD posts are *paid employment* (4 years, no tuition, pension + holiday allowance); set an alert for "medical imaging" / "machine learning".</li>
+  <li><a href="https://euraxess.ec.europa.eu/jobs" target="_blank" rel="noopener">EURAXESS Jobs</a> &mdash; the pan-European researcher vacancy feed, including Marie Curie / MSCA doctoral posts, which is where many groups list funded PhDs they will not answer on Twitter.</li>
+  <li><a href="https://www.daad.de/en/study-and-research-in-germany/scholarships/" target="_blank" rel="noopener">DAAD scholarships</a> &mdash; German PhD study scholarships; the application deadline typically runs a full year ahead of the start, which makes it the one German route that fits a planned 2028 entry rather than a vacancy lottery.</li>
+</ul>
+
+
 
 <h2 class="phd-block-title">✉️ Contact &amp; materials</h2>
 <ul class="phd-list">
