@@ -132,7 +132,36 @@ author_profile: true
   </a>
 </div>
 
-<!--PHD_TARGETS-->
+<h2 class="phd-block-title">🧱 The three systems I am applying into</h2>
+<p class="phd-sub">Same CV, three different games. This is what I got wrong when I first drew up the plan, so I am writing it down.</p>
+<table class="phd-table">
+  <thead>
+    <tr><th>System</th><th>Where</th><th>How admission actually works</th><th>What it means for a Fall 2028 start</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Committee programme</strong></td>
+      <td>US, partly Canada</td>
+      <td>You apply to a <em>department</em>, not to a professor. A committee ranks everyone; you rotate or match in year one and pick the lab later. Funding, tuition and stipend are bundled with admission.</td>
+      <td>One deadline, usually <code>Dec 1 &ndash; Dec 15, 2027</code>. Statements of purpose should argue a research direction, not "I want to join your lab", because the PI does not choose me. English test scores and 3 referrers needed by then.</td>
+    </tr>
+    <tr>
+      <td><strong>Vacancy / employed doctorate</strong></td>
+      <td>NL, DE, Nordics, Switzerland (structured schools), some UK groups</td>
+      <td>A PhD is a <em>job posting</em> with a reference number, a salary scale (TV-L E13 in Germany, CAO university in NL) and a hiring committee. No tuition, no application fee.</td>
+      <td>Postings for a 2028 start mostly appear from <strong>late 2027 through mid 2028</strong> and close 4&ndash;6 weeks after appearing. This is a monitoring problem, not a deadline problem: alerts on MIDL, Academic Transfer and EURAXESS.</td>
+    </tr>
+    <tr>
+      <td><strong>Supervisor-first scholarship</strong></td>
+      <td>HK, Singapore, Japan, China, UK studentships / CDTs</td>
+      <td>You need a PI to accept you <em>and</em> a separate scholarship round (or a 4-year CDT cohort) to fund it. The two have different clocks.</td>
+      <td>Email the PI in spring&ndash;summer 2027, then enter the funding round: HK and Singapore rounds typically open in late 2027 for an autumn 2028 intake; UK CDT cohort deadlines are usually Jan&ndash;Mar 2027 for a 2027 start, so for 2028 the equivalent round closes early 2028.</td>
+    </tr>
+  </tbody>
+</table>
+<p class="phd-sub">Round dates above are the pattern these systems use; each one I intend to submit to gets re-read on its own admission page before the summer 2027 shortlist is fixed.</p>
+
+
 
 
 <h2 class="phd-block-title">📡 Where 2028 openings actually appear</h2>
