@@ -35,10 +35,6 @@ redirect_from:
         <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
         <span>Open to Collaboration</span>
       </span>
-      <a class="about-status-badge" href="/#phd">
-        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 1 9l11 6 9-4.91V17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M5 12v5c0 1.1 3.1 3 7 3s7-1.9 7-3v-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-        <span>Prospective PhD &mdash; Fall 2028</span>
-      </a>
     </div>
   </div>
 
