@@ -103,7 +103,7 @@ redirect_from:
 <div class="phd-card">
   <p class="phd-line">
     <span class="phd-dot"></span>
-    <strong>Looking for PhD opportunities starting Fall 2028</strong> &mdash; medical image computing, endoscopic vision-language pre-training, and efficient multimodal LLMs. If your group is recruiting for that cycle, <a href="mailto:yezey7479@gmail.com">let me know</a>.
+    <strong>Looking for PhD opportunities starting Fall 2028</strong> &mdash; multimodal learning, large-language-model evaluation and medical diagnosis, and representation learning. If your group is recruiting for that cycle, <a href="mailto:yezey7479@gmail.com">let me know</a>.
   </p>
 </div>
 
