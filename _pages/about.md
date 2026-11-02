@@ -112,7 +112,6 @@ redirect_from:
 <div class="news-card">
   <div class="news-scroll">
     <ul class="news-list">
-      <li><em>2026.10</em> 🎓 I will be looking for <strong>PhD opportunities starting Fall 2028</strong>.</li>
       <li><em>2026.08</em> ⚡ Our paper <strong>PhenoMIL</strong> was accepted by <strong>Medical Image Analysis (MedIA)</strong>.</li>
       <li><em>2026.08</em> ⚡ One paper <strong>CARVE</strong> was posted on <strong>arXiv</strong>.</li>
       <li><em>2026.06</em> ⚡ <strong>EndoVLM</strong> and <strong>Brain-Adapter</strong> were accepted to <strong>MICCAI 2026</strong>.</li>
